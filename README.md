@@ -19,10 +19,10 @@ This repository documents technical challenges solved across academic and practi
 
 For ease of navigation, case studies are organized by technical domain. Click on any category below to explore the detailed documentation:
 
-* 🧠 **[java-backend](./docs/01-java-backend)** — Object-Oriented Programming, exception handling, File I/O persistence, and core business rules.
-* 🗄️ **[database](./docs/02-database)** — Relational data modeling, SQL query optimization, joins, and reporting.
-* 📋 **[requirements-and-sops](./docs/03-requirements-and-sops)** — Process mapping, technical specifications, and Standard Operating Procedures (SOPs).
-* 🛠️ **[support-and-hardware](./docs/04-support-and-hardware)** — Technical troubleshooting, hardware diagnostics, and IT support workflows.
+* 🧠 **[java-backend](./Docs/01-java-backend)** — Object-Oriented Programming, exception handling, File I/O persistence, and core business rules.
+* 🗄️ **[database](./Docs/02-database)** — Relational data modeling, SQL query optimization, joins, and reporting.
+* 📋 **[requirements-and-sops](./Docs/03-requirements-and-sops)** — Process mapping, technical specifications, and Standard Operating Procedures (SOPs).
+* 🛠️ **[support-and-hardware](./Docs/04-support-and-hardware)** — Technical troubleshooting, hardware diagnostics, and IT support workflows.
 
 ---
 
