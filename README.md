@@ -9,7 +9,7 @@ I’m focused on the **Java ecosystem, Object-Oriented Programming (OOP), Data S
 I enjoy understanding systems beyond individual lines of code — from business logic and database persistence to requirement specifications and system troubleshooting.
 # Practical Portfolio & Case Studies 📑
 
-A technical [portfolio](https://github.com/samuslv/Practical-Portfolio) focused on **engineering reasoning, systems analysis, data modeling, and problem solving**.
+A technical [Portfolio](https://github.com/samuslv/Practical-Portfolio) focused on **engineering reasoning, systems analysis, data modeling, and problem solving**.
 
 This repository documents technical challenges solved across academic and practical projects, highlighting architecture decisions, optimizations, and root-cause analysis performed during development.
 
