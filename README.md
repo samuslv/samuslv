@@ -7,6 +7,30 @@ I build **structured backend applications**, **relational database systems**, an
 I’m focused on the **Java ecosystem, Object-Oriented Programming (OOP), Data Structures, and Software Engineering principles**.
 
 I enjoy understanding systems beyond individual lines of code — from business logic and database persistence to requirement specifications and system troubleshooting.
+# Practical Portfolio & Case Studies 📑
+
+A technical portfolio focused on **engineering reasoning, systems analysis, data modeling, and problem solving**.
+
+This repository documents technical challenges solved across academic and practical projects, highlighting architecture decisions, optimizations, and root-cause analysis performed during development.
+
+---
+
+## 📑 Architecture Domains
+
+For ease of navigation, case studies are organized by technical domain. Click on any category below to explore the detailed documentation:
+
+* 🧠 **[java-backend](./docs/01-java-backend)** — Object-Oriented Programming, exception handling, File I/O persistence, and core business rules.
+* 🗄️ **[database](./docs/02-database)** — Relational data modeling, SQL query optimization, joins, and reporting.
+* 📋 **[requirements-and-sops](./docs/03-requirements-and-sops)** — Process mapping, technical specifications, and Standard Operating Procedures (SOPs).
+* 🛠️ **[support-and-hardware](./docs/04-support-and-hardware)** — Technical troubleshooting, hardware diagnostics, and IT support workflows.
+
+---
+
+## 🔍 Recent Case Studies
+
+- [TXT File Persistence and Dynamic Search in Java (AED Project)](./docs/01-java-backend/01-file-persistence-and-search-java.md)
+- [Relational Data Modeling and Complex SQL Queries](./docs/02-database/02-relational-modeling-and-sql.md)
+- [Process Mapping & Writing Technical SOPs](./docs/03-requirements-and-sops/03-requirements-mapping.md)
 
 ---
 
@@ -36,7 +60,7 @@ I enjoy understanding systems beyond individual lines of code — from business 
 - 🛠️ **Troubleshooting & Technical Support:** Hardware diagnosis, computer maintenance, and IT support
 - 🤖 **AI-Assisted Workflow:** Applying AI tools for automation, data analysis, and task optimization
 - 🎓 **Study Systems Analysis and Development (ADS)** at PUC Goiás (GPA > 9.0)
-- 🇺🇸 **English — B2 Upper-Intermediate** (International experience & residence in the US)
+- 🌎 **English — B2 Upper-Intermediate** (International experience & residence in the US)
 
 ---
 
