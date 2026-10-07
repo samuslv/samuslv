@@ -17,7 +17,7 @@ I enjoy understanding systems beyond individual lines of code — from business 
     <img src="https://api.iconify.design/bi:github.svg?color=%236f42c1" alt="github" width="36" height="36"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/TEU-LINKEDIN-AQUI" target="_blank">
+  <a href="https://www.linkedin.com/in/samuel-silva-54558542b" target="_blank">
     <img src="https://api.iconify.design/simple-icons:linkedin.svg?color=%230A66C2" alt="linkedin" width="36" height="36"/>
   </a>
   &nbsp;&nbsp;
