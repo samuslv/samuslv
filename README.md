@@ -9,7 +9,7 @@ I’m focused on the **Java ecosystem, Object-Oriented Programming (OOP), Data S
 I enjoy understanding systems beyond individual lines of code — from business logic and database persistence to requirement specifications and system troubleshooting.
 # Practical Portfolio & Case Studies 📑
 
-A technical portfolio focused on **engineering reasoning, systems analysis, data modeling, and problem solving**.
+A [technical portfolio](https://github.com/samuslv/Practical-Portfolio) focused on **engineering reasoning, systems analysis, data modeling, and problem solving**.
 
 This repository documents technical challenges solved across academic and practical projects, highlighting architecture decisions, optimizations, and root-cause analysis performed during development.
 
@@ -23,14 +23,6 @@ For ease of navigation, case studies are organized by technical domain. Click on
 * 🗄️ **[database](https://github.com/samuslv/Practical-Portfolio/tree/main/Docs/02-database)** — Relational data modeling, SQL query optimization, joins, and reporting.
 * 📋 **[requirements-and-sops](https://github.com/samuslv/Practical-Portfolio/tree/main/Docs/03-requirements-and-sops)** — Process mapping, technical specifications, and Standard Operating Procedures (SOPs).
 * 🛠️ **[support-and-hardware](https://github.com/samuslv/Practical-Portfolio/tree/main/Docs/04-support-and-hardware)** — Technical troubleshooting, hardware diagnostics, and IT support workflows.
-
----
-
-## 🔍 Recent Case Studies
-
-- [TXT File Persistence and Dynamic Search in Java (AED Project)](./docs/01-java-backend/01-file-persistence-and-search-java.md)
-- [Relational Data Modeling and Complex SQL Queries](./docs/02-database/02-relational-modeling-and-sql.md)
-- [Process Mapping & Writing Technical SOPs](./docs/03-requirements-and-sops/03-requirements-mapping.md)
 
 ---
 
